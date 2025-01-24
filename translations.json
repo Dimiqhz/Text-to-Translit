@@ -1,0 +1,28 @@
+{
+    "en": {
+        "choose_option": "Choose an option:",
+        "manual_input_option": "1. Enter text manually",
+        "file_input_option": "2. Read text from input.txt",
+        "your_choice": "Your choice (1 or 2): ",
+        "replace_spaces": "Replace spaces with '-'? (yes/no): ",
+        "enter_text": "Enter the text for transliteration: ",
+        "result": "Transliteration result:",
+        "file_result": "Translation completed. Result saved to output.txt.",
+        "file_not_found": "File input.txt not found. Make sure it is in the same folder as the script.",
+        "invalid_choice": "Invalid choice. Please try again.",
+        "yes": "yes"
+    },
+    "ru": {
+        "choose_option": "Выберите опцию:",
+        "manual_input_option": "1. Вставить текст вручную",
+        "file_input_option": "2. Прочитать текст из файла input.txt",
+        "your_choice": "Ваш выбор (1 или 2): ",
+        "replace_spaces": "Заменить пробелы на символ '-'? (да/нет): ",
+        "enter_text": "Введите текст для перевода в транслит: ",
+        "result": "Результат перевода:",
+        "file_result": "Перевод завершён. Результат сохранён в output.txt.",
+        "file_not_found": "Файл input.txt не найден. Убедитесь, что он находится в одной папке со скриптом.",
+        "invalid_choice": "Некорректный выбор. Попробуйте снова.",
+        "yes": "да"
+    }
+}
